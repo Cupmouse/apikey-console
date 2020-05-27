@@ -1,0 +1,7 @@
+{
+    "jshint.packageManager": "yarn",
+    "jshint.options": {
+        "esversion": 9,
+    },
+    "editor.tabSize": 2
+}
